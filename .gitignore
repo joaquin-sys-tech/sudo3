@@ -1,0 +1,37 @@
+# Archivos temporales del sistema
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Archivos de editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos de Linux
+*.pid
+*.sock
+
+# Máquinas virtuales
+*.vdi
+*.vmdk
+*.ova
+*.ovf
+
+# Configuración sensible
+*.env
+*.key
+*.pem
+*.crt
+
+# Python
+__pycache__/
+*.pyc
+
+# Compilación
+*.o
+*.out
+
+# Backups
+*~
