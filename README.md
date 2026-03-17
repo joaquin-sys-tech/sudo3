@@ -38,9 +38,16 @@ Este repo es colaborativo entre los tres.
 Si alguien más quiere aportar, que nos lo diga.
 
 ## 🐧 Logo oficial
-/ ____|         | |
-| (___   ___   | | ___
-\_ \ / _ \ / ` |/ _ \
-____) | () | (| |  /
-|_____/ \/ \,|\__|
-S U D O  3
+
+```
+     .--.
+    |o_o |
+    |:_/ |
+   //   \ \
+  (|     | )
+ /'\_   _/`\
+ \___)=(___/
+     SUDO 3
+
+```
+
